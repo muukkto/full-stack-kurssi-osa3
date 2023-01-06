@@ -1,0 +1,1 @@
+Sovellus löytyy [internetistä](https://fs-puhelinluettelo.fly.dev/).
